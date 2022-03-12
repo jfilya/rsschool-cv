@@ -5,7 +5,7 @@
 * **E-mail:** julia.94@bk.ru
 * **Phone:** +79533507253
 * **GitHub:** [https://github.com/jfilya](https://github.com/jfilya)
-* **Telegram:** [https://t.me/Jfilya](@jfilya)
+* **Telegram:** [@jfilya](https://t.me/Jfilya)
 * **Discord:** jfilya#4819
 
 
