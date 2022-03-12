@@ -30,6 +30,8 @@
 ADMIRAL MAKAROV STATE UNIVERSITY OF MARITIME AND INLAND SHIPPING
 2011-2016
 
+Faculty: of information technologies, direction: information security
+
 ### **Courses:**
 + WayUp:html/css
 + WayUp:JavaScript
