@@ -51,25 +51,13 @@ Control and management of the department store, recruitment and training of pers
 
 ## ***Code Example***
 ```    
-const btnOpen = document.getElementById('btn-open');
-const modal = document.getElementById('wrapper-modal');
-
-const overlay = document.getElementById('overlay');
-const btnClose = document.getElementById('btn-close');
-
-btnOpen.addEventListener('click', () => {
-    modal.classList.add('active');
-});
-
-const closeModel = () => {
-    modal.classList.remove('active');
-};
-
-overlay.addEventListener('click', closeModel);
-btnClose.addEventListener('click', closeModel); 
+function multiply(a, b){
+  a * b
+  return a*b
+}
 ```
 
 
 ## ***English***
-English level - A1
+English level - A2
 
