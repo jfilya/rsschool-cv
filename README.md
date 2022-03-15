@@ -1,2 +1,2 @@
 # rsschool-cv
-https://jfilya.github.io/rsschool-cv/cv
+https://jfilya.github.io/rsschool-cv/
