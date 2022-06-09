@@ -1,0 +1,63 @@
+# Filippov Julia
+![My photo"](img/MyPhoto.png "My photo")
+
+## ***Contacts***
+* **E-mail:** julia.94@bk.ru
+* **Phone:** +79533507253
+* **GitHub:** [https://github.com/jfilya](https://github.com/jfilya)
+* **Telegram:** [@jfilya](https://t.me/Jfilya)
+* **Discord:** jfilya#4819
+
+
+## ***About me***
+
+*Hello! My name is Julia, I'm a beginner frontend developer. Behind 5 years of work in a managerial position in a retail network, this taught me how to multitask and properly distribute working hours. Responsible and attentive to details. I have a great desire to develop, learn and grow as a professional in my field. I can: adaptive and cross-browser layout, writing code using the BEM methodology, clean and minimized code, PixelPerfect.*
+
+
+## ***Skills***
+
+* HTML
+* CSS (SCSS/SASS, BEM)
+* JavaScript
+* JQuery
+* Git, GitHub
+* Figma, Photoshop
+
+
+## ***Education and courses***
+
+### **University:**
+ADMIRAL MAKAROV STATE UNIVERSITY OF MARITIME AND INLAND SHIPPING
+2011-2016
+
+Faculty: of information technologies, direction: information security
+
+### **Courses:**
++ WayUp:html/css
++ WayUp:JavaScript
++ WayUp:Web Designer
++ AnnBlok:html/css
++ Netology:html/css
+
+
+## ***Work experience***
+
+2014-2021
+OOO "Maksima Group"
+Deputy Director
+
+Control and management of the department store, recruitment and training of personnel
+
+
+## ***Code Example***
+```    
+function multiply(a, b){
+  a * b
+  return a*b
+}
+```
+
+
+## ***English***
+English level - A2
+
